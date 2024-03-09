@@ -1,0 +1,342 @@
+Demographic,Year,Cases
+1,2012,58
+1,2013,84
+1,2014,116
+1,2015,176
+1,2016,162
+1,2017,250
+1,2018,309
+1,2019,350
+1,2020,215
+1,2021,341
+1,2022,526
+2,2012,20
+2,2013,44
+2,2014,64
+2,2015,93
+2,2016,95
+2,2017,171
+2,2018,197
+2,2019,221
+2,2020,174
+2,2021,206
+2,2022,326
+3,2012,226
+3,2013,344
+3,2014,539
+3,2015,674
+3,2016,822
+3,2017,1144
+3,2018,1224
+3,2019,1406
+3,2020,1064
+3,2021,1444
+3,2022,1802
+4A,2012,432
+4A,2013,659
+4A,2014,844
+4A,2015,1245
+4A,2016,1412
+4A,2017,1811
+4A,2018,1863
+4A,2019,2117
+4A,2020,1370
+4A,2021,2304
+4A,2022,2799
+4B,2012,20
+4B,2013,44
+4B,2014,64
+4B,2015,93
+4B,2016,95
+4B,2017,171
+4B,2018,197
+4B,2019,221
+4B,2020,174
+4B,2021,206
+4B,2022,326
+5,2012,30
+5,2013,55
+5,2014,78
+5,2015,135
+5,2016,123
+5,2017,226
+5,2018,289
+5,2019,324
+5,2020,193
+5,2021,271
+5,2022,361
+6,2012,96
+6,2013,173
+6,2014,242
+6,2015,375
+6,2016,449
+6,2017,676
+6,2018,746
+6,2019,801
+6,2020,619
+6,2021,971
+6,2022,1090
+7,2012,297
+7,2013,494
+7,2014,594
+7,2015,655
+7,2016,952
+7,2017,929
+7,2018,962
+7,2019,996
+7,2020,548
+7,2021,879
+7,2022,1009
+8,2012,26
+8,2013,43
+8,2014,63
+8,2015,87
+8,2016,103
+8,2017,181
+8,2018,213
+8,2019,244
+8,2020,151
+8,2021,168
+8,2022,286
+9,2012,26
+9,2013,43
+9,2014,63
+9,2015,87
+9,2016,103
+9,2017,181
+9,2018,213
+9,2019,244
+9,2020,151
+9,2021,168
+9,2022,286
+10,2012,38
+10,2013,83
+10,2014,136
+10,2015,193
+10,2016,182
+10,2017,268
+10,2018,326
+10,2019,333
+10,2020,166
+10,2021,350
+10,2022,530
+11,2012,223
+11,2013,315
+11,2014,397
+11,2015,439
+11,2016,561
+11,2017,587
+11,2018,557
+11,2019,686
+11,2020,330
+11,2021,730
+11,2022,836
+12,2012,50
+12,2013,90
+12,2014,141
+12,2015,221
+12,2016,194
+12,2017,250
+12,2018,392
+12,2019,424
+12,2020,271
+12,2021,326
+12,2022,436
+BARMM,2012,5
+BARMM,2013,13
+BARMM,2014,14
+BARMM,2015,13
+BARMM,2016,17
+BARMM,2017,43
+BARMM,2018,44
+BARMM,2019,31
+BARMM,2020,25
+BARMM,2021,46
+BARMM,2022,80
+CAR,2012,20
+CAR,2013,37
+CAR,2014,41
+CAR,2015,69
+CAR,2016,69
+CAR,2017,98
+CAR,2018,94
+CAR,2019,109
+CAR,2020,67
+CAR,2021,121
+CAR,2022,150
+CARAGA,2012,31
+CARAGA,2013,30
+CARAGA,2014,52
+CARAGA,2015,83
+CARAGA,2016,95
+CARAGA,2017,119
+CARAGA,2018,158
+CARAGA,2019,171
+CARAGA,2020,66
+CARAGA,2021,111
+CARAGA,2022,241
+NCR,2012,1647
+NCR,2013,2178
+NCR,2014,2410
+NCR,2015,3055
+NCR,2016,3708
+NCR,2017,3884
+NCR,2018,3527
+NCR,2019,4049
+NCR,2020,2450
+NCR,2021,3691
+NCR,2022,3868
+No data (Region),2012,3
+No data (Region),2013,1
+No data (Region),2014,4
+No data (Region),2015,2
+No data (Region),2016,0
+No data (Region),2017,0
+No data (Region),2018,0
+No data (Region),2019,0
+No data (Region),2020,0
+No data (Region),2021,0
+No data (Region),2022,0
+Male,2012,153
+Male,2013,223
+Male,2014,248
+Male,2015,320
+Male,2016,391
+Male,2017,512
+Male,2018,586
+Male,2019,659
+Male,2020,432
+Male,2021,548
+Male,2022,721
+Female,2012,3095
+Female,2013,4507
+Female,2014,5614
+Female,2015,7375
+Female,2016,8751
+Female,2017,10477
+Female,2018,10725
+Female,2019,12068
+Female,2020,7602
+Female,2021,11785
+Female,2022,14231
+<15,2012,4
+<15,2013,3
+<15,2014,5
+<15,2015,19
+<15,2016,22
+<15,2017,38
+<15,2018,30
+<15,2019,38
+<15,2020,32
+<15,2021,30
+<15,2022,46
+15-24,2012,874
+15-24,2013,1361
+15-24,2014,1663
+15-24,2015,2193
+15-24,2016,2585
+15-24,2017,3429
+15-24,2018,3369
+15-24,2019,3944
+15-24,2020,2238
+15-24,2021,3685
+15-24,2022,4499
+25-34,2012,1725
+25-34,2013,2515
+25-34,2014,3100
+25-34,2015,4048
+25-34,2016,4866
+25-34,2017,5511
+25-34,2018,5692
+25-34,2019,6326
+25-34,2020,4057
+25-34,2021,6259
+25-34,2022,7450
+35-49,2012,568
+35-49,2013,740
+35-49,2014,958
+35-49,2015,1271
+35-49,2016,1487
+35-49,2017,1748
+35-49,2018,1962
+35-49,2019,2054
+35-49,2020,1473
+35-49,2021,2059
+35-49,2022,2575
+50 & older,2012,77
+50 & older,2013,111
+50 & older,2014,136
+50 & older,2015,164
+50 & older,2016,182
+50 & older,2017,263
+50 & older,2018,258
+50 & older,2019,365
+50 & older,2020,234
+50 & older,2021,300
+50 & older,2022,382
+Male-male sexual contact,2012,1663
+Male-male sexual contact,2013,2272
+Male-male sexual contact,2014,2869
+Male-male sexual contact,2015,3840
+Male-male sexual contact,2016,4731
+Male-male sexual contact,2017,6237
+Male-male sexual contact,2018,6696
+Male-male sexual contact,2019,7716
+Male-male sexual contact,2020,4920
+Male-male sexual contact,2021,7524
+Male-male sexual contact,2022,9997
+Male-female sexual contact,2012,482
+Male-female sexual contact,2013,708
+Male-female sexual contact,2014,841
+Male-female sexual contact,2015,1057
+Male-female sexual contact,2016,1127
+Male-female sexual contact,2017,1398
+Male-female sexual contact,2018,1510
+Male-female sexual contact,2019,1650
+Male-female sexual contact,2020,1054
+Male-female sexual contact,2021,1234
+Male-female sexual contact,2022,1658
+Sex w/males & females,2012,899
+Sex w/males & females,2013,1470
+Sex w/males & females,2014,1744
+Sex w/males & females,2015,2515
+Sex w/males & females,2016,2879
+Sex w/males & females,2017,2991
+Sex w/males & females,2018,2841
+Sex w/males & females,2019,3076
+Sex w/males & females,2020,1823
+Sex w/males & females,2021,3203
+Sex w/males & females,2022,2966
+Sharing of infected needles,2012,174
+Sharing of infected needles,2013,259
+Sharing of infected needles,2014,338
+Sharing of infected needles,2015,257
+Sharing of infected needles,2016,373
+Sharing of infected needles,2017,252
+Sharing of infected needles,2018,159
+Sharing of infected needles,2019,137
+Sharing of infected needles,2020,79
+Sharing of infected needles,2021,95
+Sharing of infected needles,2022,95
+Mother-to-child,2012,4
+Mother-to-child,2013,3
+Mother-to-child,2014,5
+Mother-to-child,2015,17
+Mother-to-child,2016,23
+Mother-to-child,2017,36
+Mother-to-child,2018,23
+Mother-to-child,2019,33
+Mother-to-child,2020,23
+Mother-to-child,2021,24
+Mother-to-child,2022,35
+No data,2012,26
+No data,2013,18
+No data,2014,65
+No data,2015,9
+No data,2016,9
+No data (Mode),2017,75
+No data (Mode),2018,82
+No data (Mode),2019,115
+No data (Mode),2020,135
+No data (Mode),2021,253
+No data (Mode),2022,201
